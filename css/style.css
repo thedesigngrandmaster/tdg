@@ -8138,7 +8138,7 @@ legend {
   }
   
   .text-start {
-    text-align: left !important;
+    text-align: center !important;
   }
   
   .text-end {
@@ -11780,7 +11780,6 @@ legend {
       flex-direction: column;
 }
     .stats .stat {
-      align-items: center;
       border-right: 0 !important;
       margin-bottom: 40px;
       border-bottom: var(--bs-dark) solid 1px;
