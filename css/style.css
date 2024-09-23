@@ -1068,8 +1068,6 @@ legend {
       width: 25%;
     }
     .col-md-4 {
-      align-self: center;
-      text-align: center;
       flex: 0 0 auto;
       width: 33.33333333%;
     }
@@ -1255,8 +1253,6 @@ legend {
       width: 8.33333333%;
     }
     .col-lg-2 {
-      align-self: center;
-      text-align: center;
       flex: 0 0 auto;
       width: 16.66666667%;
     }
@@ -11784,19 +11780,10 @@ legend {
       flex-direction: column;
 }
     .stats .stat {
-      align-items: center;
-      text-align: center;
+      align-items: left;
+      text-align: left;
       border-right: 0 !important;
       margin-bottom: 40px;
       border-bottom: var(--bs-dark) solid 1px;
       padding-bottom: 20px;
 }
-
-.stats .row {
-  display: flex;
-  justify-content: center; 
-  gap: 20px; 
-}
-}
-
-
