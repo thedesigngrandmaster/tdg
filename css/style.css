@@ -8146,7 +8146,7 @@ legend {
   }
   
   .text-center {
-    text-align: center !important;
+    text-align: left !important;
   }
   
   .text-decoration-none {
@@ -11786,4 +11786,5 @@ legend {
       margin-bottom: 40px;
       border-bottom: var(--bs-dark) solid 1px;
       padding-bottom: 20px;
+}
 }
